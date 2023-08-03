@@ -6,4 +6,3 @@ To do list par rapport à l'audio :
     - Horaire : Je réponds au téléphone du lundi au vendredi de 10h à 19h
     - balise meta
 
-azeaze
